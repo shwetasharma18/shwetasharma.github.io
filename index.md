@@ -13,11 +13,11 @@ want to pay forward to Navgurukul so that other girls like me can also be part o
 
 ## Projects:
 - ### Hangman Basic Game ([code](https://github.com/shwetasharma18/Hangman))
-##### Implemented a guessing game in which the user has to guess a word. In the game, a user knows about some hints like how     many characters are in the word and also can ask for a hint to a character. I have used python in this project.
+#### Implemented a guessing game in which the user has to guess a word. In the game, a user knows about some hints like how     many characters are in the word and also can ask for a hint to a character. I have used python in this project.
 - ### API-Request-project ([code](https://github.com/shwetasharma18/Request-in-python))
-##### In this project, I worked with the API of an e-learning platform to fetch a course by its id using python and then      fetch multiple or specific exercises by id.
+#### In this project, I worked with the API of an e-learning platform to fetch a course by its id using python and then      fetch multiple or specific exercises by id.
 - ### Basic Sorting and Searching Methods([code](https://github.com/shwetasharma18/searching-and-sorting-techniques))
-##### Here I implemented some basic sorting and searching techniques to get clarity about the time complexity while writing our code.
+#### Here I implemented some basic sorting and searching techniques to get clarity about the time complexity while writing our code.
 
 ## Experience:
 - ### Facility Maintenance:  
