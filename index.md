@@ -29,7 +29,7 @@ want to pay forward to Navgurukul so that other girls like me can also be part o
 
 ## Education:
   - **NavGurukul**
-         Attending a one-year residential course to learn Software Engineering and working on various projects.
+       #### Attending a one-year residential course to learn Software Engineering and working on various projects.
   
   - ##### Pursuing graduation in BA(English honors) from Delhi University. Completing in 2020
   
