@@ -4,10 +4,7 @@
 ##### +91 9718602971
 ##### shweta18@navgurukul.org
                                                                                                     
-I am pursuing BA(English honors) from Delhi University, New Delhi and training in software development
-at Navgurukul. I am really passionate about learning not only new but different things. I want to help
-people in my surroundings with the help of my coding skills and always stay connected with the society. I
-want to pay forward to Navgurukul so that other girls like me can also be part of this amazing program.
+#### I am pursuing BA(English honors) from Delhi University, New Delhi and training in software development at Navgurukul. I am really passionate about learning not only new but different things. I want to help people in my surroundings with the help of my coding skills and always stay connected with the society. I want to pay forward to Navgurukul so that other girls like me can also be part of this amazing program.
 
 **The academic period spent in NavGurukul so far     -       11 months**
 
