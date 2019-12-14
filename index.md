@@ -26,3 +26,12 @@ want to pay forward to Navgurukul so that other girls like me can also be part o
 ##### In this project we worked with jail inmates in Udaipur Central Jail , with the project leader Mr. Manish Jain. The idea of the project was to inculcate good values in the jail inmates and making them acquire skills such as coding, designing , performing music and arts. I worked with female inmates as a cultural coordinator. My role was to talkwith the women, arrange cultural activities there and involve them in suchactivities so that their mental state will not lead to depression. During this time I also learnt many dance styles, painting techniques and communication skills.
 - ### Admissions team member: 
 ##### I interviewed candidates for Navgurukul 2018-19 and 2019-20 batch and reached out to more than 50 NGO partners to mobilize candidates for Navgurukul. I am Incharge of the Tuition group in which we guide those students who failed in logical interview to prepare and reappear.
+
+## Education:
+  - NavGurukul
+      Attending a one-year residential course to learn Software Engineering and working on various projects.
+  - Pursuing graduation in BA(English honors) from Delhi University. Completing in 2020
+  -Rajkiya Pratibha Vikas Vidyalaya, Rohini, Delhi.
+     Scored 84% from CBSE in class 12 (2017)
+  -Rajkiya Pratibha Vikas Vidyalaya, Rohini, Delhi.
+    Scored 75% from CBSE in class 10 (2015)
