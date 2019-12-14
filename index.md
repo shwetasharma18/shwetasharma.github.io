@@ -28,7 +28,7 @@ want to pay forward to Navgurukul so that other girls like me can also be part o
 ##### I interviewed candidates for Navgurukul 2018-19 and 2019-20 batch and reached out to more than 50 NGO partners to mobilize candidates for Navgurukul. I am Incharge of the Tuition group in which we guide those students who failed in logical interview to prepare and reappear.
 
 ## Education:
-  - NavGurukul
+  - **NavGurukul**
       Attending a one-year residential course to learn Software Engineering and working on various projects.
   - Pursuing graduation in BA(English honors) from Delhi University. Completing in 2020
   - Rajkiya Pratibha Vikas Vidyalaya, Rohini, Delhi.
