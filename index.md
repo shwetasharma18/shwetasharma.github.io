@@ -31,7 +31,7 @@ want to pay forward to Navgurukul so that other girls like me can also be part o
   - NavGurukul
       Attending a one-year residential course to learn Software Engineering and working on various projects.
   - Pursuing graduation in BA(English honors) from Delhi University. Completing in 2020
-  -Rajkiya Pratibha Vikas Vidyalaya, Rohini, Delhi.
+  - Rajkiya Pratibha Vikas Vidyalaya, Rohini, Delhi.
      Scored 84% from CBSE in class 12 (2017)
-  -Rajkiya Pratibha Vikas Vidyalaya, Rohini, Delhi.
+  - Rajkiya Pratibha Vikas Vidyalaya, Rohini, Delhi.
     Scored 75% from CBSE in class 10 (2015)
